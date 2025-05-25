@@ -1,0 +1,12 @@
+/* mobile*/
+@media only screen and (max-width: 600px) {
+    .menu\" {
+        flex-direction: column;
+        background-color: blue;
+        width:100%;
+    }
+
+     .menu\" a {
+        color: aqua;
+    } 
+}

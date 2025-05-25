@@ -1,0 +1,13 @@
+/* tablate*/
+ @media only screen and (max-width: 768px) {
+    .menu\" {
+        flex-direction: column;
+        background-color: red;
+        width:100%;
+        color: black;
+    }
+
+    .menu\" a {
+        color:white;
+    }
+} 

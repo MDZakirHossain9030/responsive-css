@@ -1,0 +1,27 @@
+/* body তে box-sizing: border-box করতে হবে*/
+body{
+    box-sizing: border-box;
+
+    
+}
+
+/*  আগে main css, ল্যাপটপ, টেব, মোবাইল বড় থেকে ছোট  =This is best practice আমি মনে করি*/
+
+.menu\" {
+    background-color: red;
+    display: flex;
+    justify-content: flex-end;
+    flex-direction: row;
+    width:100%;
+}
+
+
+.menu\" a{
+    text-decoration: none;
+    padding:20px;
+    color:white;
+}
+
+.menu\" a:hover{
+    background-color: gray;
+}

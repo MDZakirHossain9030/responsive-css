@@ -1,0 +1,13 @@
+/* laptop*/
+ @media only screen and (max-width: 992px) {
+    .menu\" {
+        flex-direction: column;
+        background-color: green;
+        width:100%;
+        
+    }
+
+    .menu\" a {
+        color:black;
+    }
+} 
